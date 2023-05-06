@@ -1,0 +1,24 @@
+﻿{
+  "profiles": {
+    "Plutus": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7280;http://localhost:5280",
+      "environmentVariables": {
+        "HOST_NAME": "https://localhost:44492",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "GITHUB_CLIENT_ID": "replace_me",
+        "GITHUB_CLIENT_SECRET": "replace_me",
+        "DB_NAME": "plutus",
+        "DB_HOST": "localhost",
+        "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "Microsoft.AspNetCore.SpaProxy",
+        "DB_PORT": "5432",
+        "DB_USER_NAME": "dev",
+        "DB_PASSWORD": "test",
+        "DB_MAX_POOL_SIZE": "5",
+        "SPOTIFY_CLIENT_ID": "replace_me",
+        "SPOTIFY_CLIENT_SECRET": "replace_me"
+      }
+    }
+  }
+}

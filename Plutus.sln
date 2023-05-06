@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plutus", "Plutus\Plutus.csproj", "{CB0E7545-B976-4C98-8947-2B4D687F4F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plutus.Authentication", "Plutus.Authentication\Plutus.Authentication.csproj", "{967A5D1C-EA14-4942-941C-C5E0F162304A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plutus.Database", "Plutus.Database\Plutus.Database.csproj", "{3657B98A-02B0-4F85-8353-CDFA44080434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plutus.Users", "Plutus.Users\Plutus.Users.csproj", "{4E3A3C9E-1216-458E-945C-C63B9B532145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plutus.Api", "Plutus.Api\Plutus.Api.csproj", "{A1722A82-8E1B-467F-9CCA-473CF170DA86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plutus.Extensions", "Plutus.Extensions\Plutus.Extensions.csproj", "{AA8D92DC-3D47-42EE-A079-167F89527F5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plutus.Security", "Plutus.Security\Plutus.Security.csproj", "{0FFAE1A4-178C-4BD3-BFFD-67F70575A40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB0E7545-B976-4C98-8947-2B4D687F4F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0E7545-B976-4C98-8947-2B4D687F4F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB0E7545-B976-4C98-8947-2B4D687F4F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB0E7545-B976-4C98-8947-2B4D687F4F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967A5D1C-EA14-4942-941C-C5E0F162304A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967A5D1C-EA14-4942-941C-C5E0F162304A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967A5D1C-EA14-4942-941C-C5E0F162304A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967A5D1C-EA14-4942-941C-C5E0F162304A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3657B98A-02B0-4F85-8353-CDFA44080434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3657B98A-02B0-4F85-8353-CDFA44080434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3657B98A-02B0-4F85-8353-CDFA44080434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3657B98A-02B0-4F85-8353-CDFA44080434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3A3C9E-1216-458E-945C-C63B9B532145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3A3C9E-1216-458E-945C-C63B9B532145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3A3C9E-1216-458E-945C-C63B9B532145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3A3C9E-1216-458E-945C-C63B9B532145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1722A82-8E1B-467F-9CCA-473CF170DA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1722A82-8E1B-467F-9CCA-473CF170DA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1722A82-8E1B-467F-9CCA-473CF170DA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1722A82-8E1B-467F-9CCA-473CF170DA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA8D92DC-3D47-42EE-A079-167F89527F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8D92DC-3D47-42EE-A079-167F89527F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8D92DC-3D47-42EE-A079-167F89527F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8D92DC-3D47-42EE-A079-167F89527F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFAE1A4-178C-4BD3-BFFD-67F70575A40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFAE1A4-178C-4BD3-BFFD-67F70575A40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFAE1A4-178C-4BD3-BFFD-67F70575A40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFAE1A4-178C-4BD3-BFFD-67F70575A40C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
